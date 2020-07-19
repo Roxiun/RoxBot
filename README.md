@@ -1,6 +1,15 @@
 # RoxBot
 #### Made by Roxiun
 
+<br>
+
+__Development__ | __Status__
+------------ | -------------
+Moderation Tools| *__Pending__*
+API | *__Pending__*
+
+<br>
+
 ## What is this?
 RoxBot is an all purpose bot that seeks to be the one bot that can do anything you need. It's development is highly active with new updates being pushed out every 10-48hrs.
 
