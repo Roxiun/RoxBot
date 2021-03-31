@@ -12,7 +12,7 @@ google-api-python-client==1.12.1
 google-auth==1.27.0
 google-auth-httplib2==0.0.4
 googleapis-common-protos==1.52.0
-httplib2==0.18.1
+httplib2==0.19.1
 idna==2.10
 mcrcon==0.6.0
 multidict==4.7.6
